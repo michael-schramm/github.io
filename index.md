@@ -10,4 +10,9 @@ OK?
 * klein
 * dick
 * dünn
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"/>
+
+> Weg mit den Tüten! Freiheit für die Gummibärchen!
+(Crafted with Vim)
+
