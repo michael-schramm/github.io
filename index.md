@@ -4,3 +4,4 @@ Das ist ein Held. Keiner kennt ihn (oder sie?). Keiner hat ihn je gesehen. Und d
 Echt seltsam, oder?
 Wieso ist diese Person eine Heldin?
 Weil keiner sie kennt?
+OK?
