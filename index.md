@@ -10,3 +10,4 @@ OK?
 * klein
 * dick
 * dünn
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"/>
